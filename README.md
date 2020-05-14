@@ -4,7 +4,7 @@
 ## [GIC PM-617 Module: Practical Training for Science and Engineering Research](https://pathways.kaplaninternational.com/course/view.php?id=2879)
 This is a repo for materials used for a module on quantitative research resources, taught at Glasgow International College, a University of Glasgow College. 
 
-link here: <https://gracecarrillo.github.io//course-in-a-box-android
+link here: https://gracecarrillo.github.io/course-in-a-box-android/
 
 <br><br>
 
